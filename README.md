@@ -17,7 +17,7 @@ Here, you'll find a selection of academic projects that reflect my growth and le
 - **Description**:  Classifying Learning Outcomes Across the United States’ Educational Institutions with data sourced from Open Syllubus Project.
 - **Technologies Used**: Python, sklearn(CountVectorizer, RandomForestClassifier), matplotlib.pyplot, pandas, numpy
 - **Key Words**: Machine Learning, Classification, Education
-- **[Link to Project Repository]**
+- **(https://github.com/yueyuem77/portfolio/tree/main/OSP_project)**
 
 ### Project 2: Reddit Comments and Political Party
 - **Description**: Project from QMSS 5067 Natural Language Processing
