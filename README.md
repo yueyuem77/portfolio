@@ -28,22 +28,22 @@ Here, you'll find a selection of academic projects that reflect my growth and le
 
 ## Skills in Development
 
-- **Languages**: Python (beginner), R (introductory), etc.
-- **Frameworks & Libraries**: Learning about Pandas, NumPy, etc.
-- **Tools**: Familiarizing with Jupyter Notebook, basic Git, etc.
+- **Languages**: Python (Intermediate), R (Beginner), MATLAB(Beginner), SQL(Intermediate).
+- **Frameworks & Libraries**: Pandas, Numpy, sklearn, seaborn.
+- **Tools**: Jupyter Notebook, basic Git, Microsoft Excel.
 
 ## Education
 
-- **Master's in Quantitative Methods in the Social Sciences**, Columbia University - [Expected Graduation Year]
-- **Bachelor's Degree** in [Your Undergraduate Major], [Your Undergraduate University] - [Year of Graduation]
+- **Master's in Quantitative Methods in the Social Sciences**, Columbia University - 2024
+- **Bachelor's Degree** in Cognitive Science,University of California, Irvine - 2023
 
 ## Contact Me
 
 I am always open to learning opportunities, project collaborations, and discussions about data science. Feel free to connect:
 
-- 📧 Email: [Your Email]
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 💼 Portfolio: [Link to Your Professional Portfolio, if available]
+- 📧 Email: ym2980@columbia.edu
+- 🔗 LinkedIn: https://www.linkedin.com/in/yueyuemin/
+
 
 Thank you for visiting my portfolio and joining me on my data science journey!
 
