@@ -20,11 +20,21 @@ Here, you'll find a selection of academic projects that reflect my growth and le
 - **[[Link to Project Repository](https://github.com/yueyuem77/portfolio/tree/main/OSP_project)]**
 
 ### Project 2: Reddit Comments and Political Party
-- **Description**: Project from QMSS 5067 Natural Language Processing
+- **Description**: NLP project
 - **Technologies Used**: Python, praw, nltk, sklearn(TfidfVectorizer, CountVectorizer)
 - **[[Link to Project Repository](https://github.com/yueyuem77/portfolio/tree/main/Reddit)]**
 
-
+### Project 3: Dataviz of Squirel in Central Park
+- **Description**: Visualize the interaction between squirrels and their urban environment in Central Park, New York
+- **Technologies Used**: Python, praw, nltk, sklearn(TfidfVectorizer, CountVectorizer)
+- https://elenazz.shinyapps.io/squirrel_pj2/
+- **[[Website link](https://elenazz.shinyapps.io/squirrel_pj2/)]**
+- **[[Link to Project Repository](https://github.com/yueyuem77/dataviz_squirelHabitat)]**
+- 
+### Project 4: Sentiment Analysis of NYT 
+- **Description**: Analyzed 30 years of New York Times articles to track how media sentiment toward AI evolved over time using NLP techniques.  
+- **Technologies Used**:  Python, TextBlob, spaCy, Gensim, Google Colab, NYT API  
+- **[[Link to Project Repository]([https://github.com/yueyuem77/portfolio/tree/main/Reddit](https://github.com/yueyuem77/NYT_Sentiment_AI))]**
 
 ## Skills in Development
 
