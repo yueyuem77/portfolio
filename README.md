@@ -13,28 +13,26 @@ Welcome to my GitHub portfolio! I am Luna, a master's student at Columbia Univer
 
 Here, you'll find a selection of academic projects that reflect my growth and learning in data science. Each project has its own repository with a detailed README, explaining the objectives, methodology, and outcomes.
 
-### Project 1: OSP Project
+### [Project 1: OSP Project](https://github.com/yueyuem77/portfolio/tree/main/OSP_project)
 - **Description**:  Classifying Learning Outcomes Across the United States’ Educational Institutions with data sourced from Open Syllubus Project.
 - **Technologies Used**: Python, sklearn(CountVectorizer, RandomForestClassifier), matplotlib.pyplot, pandas, numpy
 - **Key Words**: Machine Learning, Classification, Education
-- **[[Link to Project Repository](https://github.com/yueyuem77/portfolio/tree/main/OSP_project)]**
 
-### Project 2: Reddit Comments and Political Party
+
+### [Project 2: Reddit Comments and Political Party](https://github.com/yueyuem77/portfolio/tree/main/Reddit)
 - **Description**: NLP project
 - **Technologies Used**: Python, praw, nltk, sklearn(TfidfVectorizer, CountVectorizer)
-- **[[Link to Project Repository](https://github.com/yueyuem77/portfolio/tree/main/Reddit)]**
 
-### Project 3: Dataviz of Squirel in Central Park
+### [Project 3: Dataviz of Squirel in Central Park](https://github.com/yueyuem77/dataviz_squirelHabitat)
 - **Description**: Visualize the interaction between squirrels and their urban environment in Central Park, New York
 - **Technologies Used**: Python, praw, nltk, sklearn(TfidfVectorizer, CountVectorizer)
-- https://elenazz.shinyapps.io/squirrel_pj2/
-- **[[Website link](https://elenazz.shinyapps.io/squirrel_pj2/)]**
-- **[[Link to Project Repository](https://github.com/yueyuem77/dataviz_squirelHabitat)]**
-- 
-### Project 4: Sentiment Analysis of NYT 
+- **[Website link](https://elenazz.shinyapps.io/squirrel_pj2/)**
+
+  
+### [Project 4: Sentiment Analysis of NYT](https://github.com/yueyuem77/NYT_Sentiment_AI)
 - **Description**: Analyzed 30 years of New York Times articles to track how media sentiment toward AI evolved over time using NLP techniques.  
 - **Technologies Used**:  Python, TextBlob, spaCy, Gensim, Google Colab, NYT API  
-- **[[Link to Project Repository]([https://github.com/yueyuem77/portfolio/tree/main/Reddit](https://github.com/yueyuem77/NYT_Sentiment_AI))]**
+
 
 ## Skills in Development
 
